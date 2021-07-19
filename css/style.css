@@ -8803,8 +8803,8 @@ h1, h2, h3, h4, h5,
         letter-spacing: 3px;
         color: #f3c623;
         font-weight: 700;
-        border: 1px solid #f3c623;
-        padding: 2px 5px; }
+        border: 2px solid #f3c623;
+        padding: 6px 5px; }
       .portfolio-wrap .text .desc p {
         margin-bottom: 30px; }
       .portfolio-wrap .text .desc .top {
